@@ -4,7 +4,8 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-__Zekai Chen__ <p>is currently enrolled at <a href="https://www.gwu.edu/">GWU</a> as a master student with major in Statistics, advised by <a href="http://home.gwu.edu/~chenz/">Prof. Chen Zeng</a>. His research spans from Data Visualization, Machine Learning prediction on advertisement consumption, Computer Vision to Natural Laguage Processing. He is now coopretating a project with the Medical school of Georgetown University which refers to DNA sequence recognition.</p>
+__Zekai Chen__ 
+<p>is currently enrolled at <a href="https://www.gwu.edu/">GWU</a> as a master student with major in Statistics, advised by <a href="http://home.gwu.edu/~chenz/">Prof. Chen Zeng</a>. His research spans from Data Visualization, Machine Learning prediction on advertisement consumption, Computer Vision to Natural Laguage Processing. He is now coopretating a project with the Medical school of Georgetown University which refers to DNA sequence recognition.</p>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
