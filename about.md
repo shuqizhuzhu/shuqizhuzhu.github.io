@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p><h3>Zekai Chen</h3>is currently enrolled at <li><a href="https://www.gwu.edu/">GWU</a></li> with major in Statistics.</p>
+<p>Zekai Chen is currently enrolled at <a href="https://www.gwu.edu/">GWU</a> with major in Statistics.</p>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
